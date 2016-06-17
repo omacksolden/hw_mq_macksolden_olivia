@@ -1,0 +1,21 @@
+body {
+	background-color: pink;
+}
+
+@media only screen and (max-width: 1080px) {
+	body {
+		background-color: purple;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	body {
+		background-color: aquamarine;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	body {
+		background-color: orange;
+	}
+}
